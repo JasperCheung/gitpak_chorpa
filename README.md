@@ -11,6 +11,7 @@ Disclaimer: Some links are private because I'm a shyboy, once projects are finis
 | my grammar is atrocious| |
 | i get way too many nosebleeds | |
 | learning mandarin is too hard | |
+| I feel like i'm one step away from getting hacked | |
 
 
 

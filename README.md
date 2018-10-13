@@ -15,6 +15,8 @@ Disclaimer: Some links are private because I'm a shyboy, once projects are finis
 | I feel like i'm one step away from getting hacked | |
 | I can't dresss myself/ fashion illiterate | | 
 | can't find a place thats the best distance when deciding to go eat with people | |
+| md has to hide his girlfriend from his parents | |
+
 
 
 

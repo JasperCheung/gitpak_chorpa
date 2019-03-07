@@ -20,6 +20,7 @@ Disclaimer: Some links are private because I'm a shyboy, once projects are finis
 | Playlist (more functionality in parsing, filtering, exporting)||
 | AR paintball (jl)||
 | Subway Card | |
+| Facial Analysis (Azure) | |
 
 
 

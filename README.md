@@ -23,6 +23,7 @@ Disclaimer: Some links are private because I'm a shyboy, once projects are finis
 | AR paintball (jl)||
 | Subway Card | |
 | Facial Analysis (Face API Microsoft) | |
+| Trip Planning On Route| |
 
 
 

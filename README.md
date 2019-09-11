@@ -24,6 +24,10 @@ Disclaimer: Some links are private because I'm a shyboy, once projects are finis
 | Subway Card | |
 | Facial Analysis (Face API Microsoft) | |
 | Trip Planning On Route| |
+| Escape: App that allows for excursions( muslims, opressed folks, kids) ||
+| Anti-Ennui: Scheduler scrabmler and hobby introducter| |
+| Metrocard holder: keep tracks of ur metrocards | |
+
 
 
 

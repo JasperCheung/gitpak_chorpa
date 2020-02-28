@@ -29,7 +29,8 @@ Disclaimer: Some links are private because I'm a shyboy, once projects are finis
 | Metrocard holder: keep tracks of ur metrocards | |
 | Podcast Ad-Block | |
 | Reddit User Search | [Re-Search](https://github.com/JasperCheung/Re-Search)|
-| List of open mics: https://www.freemics.com/region http://badslava.com/ | |
+| List of open mics: https://www.freemics.com/region http://badslava.com/ + Location Functionality | |
+
 
 
 

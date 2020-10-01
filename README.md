@@ -1,7 +1,7 @@
 # gitpak_chorpa
 A list of problems and interests for personal projects and/or hackathons. In short, my journey of self-improvement.
 
-Disclaimer: Some links are private because I'm a shyboy, once projects are finished or close they will become public. 
+Disclaimer: Some links are private because I'm bashful :), once projects are finished or close they will become public. 
 
 
 | Topic | Link to project/solution |
@@ -24,7 +24,7 @@ Disclaimer: Some links are private because I'm a shyboy, once projects are finis
 | Subway Card | |
 | Facial Analysis (Face API Microsoft) | |
 | Trip Planning On Route| |
-| Escape: App that allows for excursions( muslims, opressed folks, kids) ||
+| Escape: App that allows for excursions( opressed folks, kids) | |
 | Anti-Ennui: Scheduler scrabmler and hobby introducter| |
 | Metrocard holder: keep tracks of ur metrocards | |
 | Podcast Ad-Block | |

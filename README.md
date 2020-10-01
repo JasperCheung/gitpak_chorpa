@@ -28,7 +28,7 @@ Disclaimer: Some links are private because I'm bashful :), once projects are fin
 | Anti-Ennui: Scheduler scrabmler and hobby introducter| |
 | Metrocard holder: keep tracks of ur metrocards | |
 | Podcast Ad-Block | |
-| Reddit User Search | [Re-Search](https://github.com/JasperCheung/Re-Search)|
+| Reddit User Search | [Re-Search](https://github.com/JasperCheung/Re-Search) |
 | List of open mics: https://www.freemics.com/region http://badslava.com/ + Location Functionality | |
 
 

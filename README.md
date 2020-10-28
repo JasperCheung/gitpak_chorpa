@@ -8,7 +8,8 @@ Disclaimer: Some links are private because I'm bashful :), once projects are fin
 | --- | --- |
 | Personal Website | https://github.com/JasperCheung/jaspercheung.github.io |
 | why do I like stand-up and hip-hop | [My textual analysis on comedy and rap](https://github.com/JasperCheung/haha-hiphop) |
-| i use filler words too much (e.g. like, dude, bro, um)| [mouth braces: a speech corrector(Personal Project)](https://github.com/JasperCheung/mouth_braces/)|
+| i use filler words too much (e.g. like, dude, bro, um)| [mouth braces: a speech corrector(Personal Project)](https://github.com/JasperCheung/mouth_braces/)| 
+| List of open mics: https://www.freemics.com/region http://badslava.com/ + Location Functionality | [REPO!!!](https://github.com/JasperCheung/micsmicsmics) |
 |Chrome Extension to mute youtube links based on filters| |
 | I can't wake up when people need me to, I like to keep my phone on silent | simple iphone app ( didn't start) |
 | my grammar is atrocious| |
@@ -29,7 +30,6 @@ Disclaimer: Some links are private because I'm bashful :), once projects are fin
 | Metrocard holder: keep tracks of ur metrocards | |
 | Podcast Ad-Block | |
 | Reddit User Search | [Re-Search](https://github.com/JasperCheung/Re-Search) |
-| List of open mics: https://www.freemics.com/region http://badslava.com/ + Location Functionality | |
 | Recipes |  |
 | Restaurants | |
 | Jokebook + Notepad + Set recording App | |

@@ -25,6 +25,8 @@ Disclaimer: Some links are private because I'm bashful :), once projects are fin
 | Memories App, Public Journal?, Time + Change + Memory + Location + Map, https://camilojosevergara.com/Harlem/65-East-125th-St/25, https://wherewemet.org/ | |
 | Pico-8: Virtual Game Console. Look into it. | | 
 | Soccer Stats Website, H2H so I can argue with fardeen | |
+| Public Shaming App: Citizen app + Facebook + Chinese Social Credit | |
+
 
 
 
